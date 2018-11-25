@@ -1,7 +1,7 @@
 const graphql = require('graphql');
 const _= require('lodash');
-const User = require('../models/user');
-const Short = require('../models/short');
+const User = require('../models/User');
+const Short = require('../models/Short');
 
 const { 
 	GraphQLObjectType, 
