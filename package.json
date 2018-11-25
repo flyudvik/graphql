@@ -4,7 +4,7 @@
   "description": "server side for Emma",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "app.js"
   },
   "author": "Atai Umetov",
   "license": "ISC",
